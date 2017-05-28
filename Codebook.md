@@ -1,5 +1,7 @@
 ## Codebook
 
+This Codebook was generated on 2017-05-27 
+
 Variable/Description
 ------------------
 
