@@ -16,3 +16,5 @@ The idea is create one R script called run_analysis.R that does the following.
 
 To use this project
 -------------------
+1. All the project is in the R script run_analysis.R available in this repository
+2. Take care of use the correct working directory and make the changes that you need
